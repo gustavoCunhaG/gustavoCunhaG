@@ -11,10 +11,9 @@ Estou desenvolvendo uma iniciação cientifica relacionado ao desenvolvimento de
 
 
 - Tecnologias:
-<div align="center">
-  <a href="[Link]">
-    <img alt="C++" height="60" width="60" src="https://github.com/gui-bus/TechIcons/raw/main/Light/C%2B%2B.svg"> 
-  </a>
-</div>
-
+  - C
+  - C++
+  - Python
+  - JavaScript
+  - Java
 ````
