@@ -1,4 +1,4 @@
-# gustavoCunhaC
+# gustavoCunhaG
 
 ````markdown name=README.md
 Eu me chamo Gustavo Cunha Gonçalves, tenho 22 anos e atualmente
