@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Cursando **Ciência da Computação** na Universidade Federal do Espírito Santo (UFES).
-- 🌱 Tenho grande interesse em **C/C++**, **Otimização** e **Grafos**.
+- 🌱 Tenho grande interesse em **C/C++/C#**, **Desenvolvimento de jogos** e **Grafos**.
 - 🔬 Atualmente, estou em uma iniciação científica sobre **desenvolvimento de Ontologias**.
 - 🧩 Gosto de desenvolver bibliotecas para resolver problemas matemáticos complexos.
 
