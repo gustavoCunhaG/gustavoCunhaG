@@ -1,19 +1,8 @@
 # Gustavo Cunha Gonçalves
 
-### 👋 Olá! Sou um estudante de Ciência da Computação na UFES.
-
 <p align="left">
-  Tenho 22 anos e sou apaixonado por tecnologia, com um foco especial em linguagens de baixo nível, otimização de algoritmos e de teoria dos grafos.
+  Tenho 22 anos, gosto de desenvolver coisas gráficas, simuladores de fisica e jogos.
 </p>
-
----
-
-### 👨‍💻 Sobre Mim
-
-- 🎓 Cursando **Ciência da Computação** na Universidade Federal do Espírito Santo (UFES).
-- 🌱 Tenho grande interesse em **C/C++/C#**, **Desenvolvimento de jogos** e **Grafos**.
-- 🔬 Atualmente, estou em uma iniciação científica sobre **desenvolvimento de Ontologias**.
-- 🧩 Gosto de desenvolver bibliotecas para resolver problemas matemáticos complexos.
 
 ---
 
